@@ -15,4 +15,5 @@ scoreboard will be shown on system.
 This system will thus help athletes to keep tracks of their
 events and performance, it will also reduce the overhead for
 the organizers to manually schedule the events, verify
-documents and update scoreboards
+documents and update scoreboards. 
+Technologies Used: MongoDB, Express.js, Angular, Node.js, Visual Studio Code.
